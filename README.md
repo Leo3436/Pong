@@ -1,2 +1,2 @@
 # Pong
-My home-made version of the classic Atari game Pong.
+My personal version of the classic Atari game Pong.
